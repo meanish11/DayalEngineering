@@ -1,0 +1,22 @@
+{
+  "name": "dayal-engineering-website",
+  "version": "1.0.0",
+  "description": "Welding and Fabrication catalog website for Dayal Engineering",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server --port=8080",
+    "scan-work": "node scan-our-work.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "welding",
+    "fabrication",
+    "catalog",
+    "firebase"
+  ],
+  "author": "Dayal Engineering",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
