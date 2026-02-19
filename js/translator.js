@@ -9,7 +9,7 @@ const translations = {
         'nav.admin': 'Admin',
         
         // Logo & Tagline
-        'logo.title': 'DAYAL ENGINEERING',
+        'logo.title': 'DAYAL ENGINEERING WORKS',
         'logo.tagline': 'Reliable Welding & Fabrication Solutions',
         
         // Hero Section
@@ -84,7 +84,9 @@ const translations = {
         'service.custom': 'Custom Work',
         
         // Footer
-        'footer.copyright': '© 2026 Dayal Engineering. All rights reserved.',
+        'footer.copyright': '© 2026 Dayal Engineering Works. All rights reserved.',
+        'map.title': 'Our Location',
+        'map.sub': 'Asharfi Chawk, Hajipur Jandaha Road, Vaishali, Bihar',
         'footer.tagline': 'Quality Welding & Fabrication Services',
         
         // Catalog Page
@@ -149,7 +151,7 @@ const translations = {
         'nav.admin': 'एडमिन',
         
         // Logo & Tagline
-        'logo.title': 'दयाल इंजीनियरिंग',
+        'logo.title': 'दयाल इंजीनियरिंग वर्क्स',
         'logo.tagline': 'भरोसेमंद वेल्डिंग और फैब्रिकेशन का काम',
         
         // Hero Section
@@ -224,7 +226,9 @@ const translations = {
         'service.custom': 'कस्टम वर्क',
         
         // Footer
-        'footer.copyright': '© 2026 दयाल इंजीनियरिंग। सर्वाधिकार सुरक्षित।',
+        'footer.copyright': '© 2026 दयाल इंजीनियरिंग वर्क्स। सर्वाधिकार सुरक्षित।',
+        'map.title': 'हमारा पता',
+        'map.sub': 'अशरफी चौक, हाजीपुर जंदाहा रोड, वैशाली, बिहार',
         'footer.tagline': 'उच्च गुणवत्ता वेल्डिंग और फैब्रिकेशन सेवाएं',
         
         // Catalog Page
